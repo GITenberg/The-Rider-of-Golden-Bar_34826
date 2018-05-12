@@ -3,7 +3,7 @@ _version: 0.1.0
 contributor:
   illustrator:
     agent_name: Schuyler, Remington
-    birthdate: &id001 1884
+    birthdate: 1884
     deathdate: 1955
     gutenberg_agent_id: '37260'
     url: http://www.gutenberg.org/2009/agents/37260
@@ -14,10 +14,12 @@ creator:
   author:
     agent_name: White, William Patterson
     alias: White, W. P. (William Patterson)
-    birthdate: *id001
+    birthdate: 1884
     gutenberg_agent_id: '3549'
     url: http://www.gutenberg.org/2009/agents/3549
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34826#The-Rider-of-Golden-Bar
 gutenberg_issued: '2011-01-02'
 gutenberg_type: Text
 identifiers:
